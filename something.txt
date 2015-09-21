@@ -1,2 +1,4 @@
-
 we edited first!!
+
+Editor's note: now that there's almost no text in here,
+there are no conflicts!
