@@ -1,5 +1,6 @@
 This is some text in this.
-
+Heidi's text
 we edited first!!
 
-did we get heidi's merged text?
+
+
