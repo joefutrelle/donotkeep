@@ -13,3 +13,7 @@ def stuff(v):
 ```
 
 > Note: it's not actually useful
+
+## Testing
+
+In this testing area, I'm testing the GitHub app for Mac.
