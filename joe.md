@@ -1,6 +1,6 @@
 # Markdown
 
-This is a markdown file.
+This is a markdown file. Markdown files are automatically rendered when you view them on GitHub.
 
 ## Some code
 
